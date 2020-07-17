@@ -27,32 +27,24 @@
 ### My Repositories by category
 
 <details>
-  <summary><strong>React</strong></summary>
+  <summary><strong>My Projects</strong></summary>
 
-  | Title | Description | 
-  |-------|-------------|
-  | [Event Planner](https://github.com/MarinaFroes/Event_Planner) - IN PROGRESS | This web app is a work in progress and aims to provide an easy way to plan events and invite friends sharing the costs with them |
-  | [My Portfolio](https://github.com/MarinaFroes/Portfolio) | My portfolio |
-  | [My Reads](https://github.com/MarinaFroes/RDND-project1-MyReads)   | Udacity React Developer Nanodegree First Project| 
-  | [Would you rather game](https://github.com/MarinaFroes/RDND-project2-WouldYouRather)| Udacity React Developer Nanodegree Second Project|
-  | [Mobile Flashcards](https://github.com/MarinaFroes/RDND-project3-mobile-flashcards)| Udacity React Developer Nanodegree Third Project|
-  | [Tea Cozy Page](https://github.com/MarinaFroes/Tea-Cozy) | Originally created as part of the Codecademy Web Development Path using only HTML and CSS |
-  | [Ravenous](https://github.com/MarinaFroes/Ravenous-Codecademy) | Yelp clone created as part of the Codecademy Web Development Path |
-  | [Changing quotes app](https://github.com/MarinaFroes/Changing-quotes-app)| Really small react app to demonstrate state update in a specific interval|
-   
-</details>
-
-<details>
-  <summary><strong>Vanilla JavaScript</strong></summary>
-
-  | Title | Description | 
-  |-------|-------------|
-  | [Portfolio](https://github.com/MarinaFroes/FEND-project1-Portfolio)   | Udacity Front-End Nanodegree First Project| 
-  | [Matching Game](https://github.com/MarinaFroes/FEND-project2-Matching-Game)   | Udacity Front-End Nanodegree Second Project| 
-  | [Arcade Game Clone](https://github.com/MarinaFroes/FEND-project3-Arcade-Game-Clone) | Udacity Front-End Nanodegree Third Project| 
-  | [Feed Reader Testing](https://github.com/MarinaFroes/FEND-project4-Feed-Reader-Testing) | Udacity Front-End Nanodegree Fourth Project| 
-  | [Restaurant Review App](https://github.com/MarinaFroes/FEND-project5-Restaurant-Review-App) | Udacity Front-End Nanodegree Fifth Project| 
-  | [Harry Potter Quiz](https://github.com/MarinaFroes/Harry-Potter-Quiz) | Quiz to test your knowledge about Harry Potter |
+  | Title | Description | Technologies |
+  |-------|-------------|--------------|
+  | [Event Planner](https://github.com/MarinaFroes/Event_Planner) - IN PROGRESS | This web app to provide an easy way to plan events and invite friends sharing the costs with them | React + Redux + Typescript |
+  | [My Portfolio](https://github.com/MarinaFroes/Portfolio) | My portfolio | React |
+  | [My Reads](https://github.com/MarinaFroes/RDND-project1-MyReads)   | Udacity React Developer Nanodegree First Project| React |
+  | [Would you rather game](https://github.com/MarinaFroes/RDND-project2-WouldYouRather)| Udacity React Developer Nanodegree Second Project| React + Redux |
+  | [Mobile Flashcards](https://github.com/MarinaFroes/RDND-project3-mobile-flashcards)| Udacity React Developer Nanodegree Third Project| React Native |
+  | [Tea Cozy Page](https://github.com/MarinaFroes/Tea-Cozy) | Originally created as part of the Codecademy Web Development Path using only HTML and CSS | React |
+  | [Ravenous](https://github.com/MarinaFroes/Ravenous-Codecademy) | Yelp clone created as part of the Codecademy Web Development Path | React |
+  | [Changing quotes app](https://github.com/MarinaFroes/Changing-quotes-app)| Really small react app to demonstrate state update in a specific interval| React |
+  | [Portfolio](https://github.com/MarinaFroes/FEND-project1-Portfolio)   | Udacity Front-End Nanodegree First Project| HTML + CSS + JavaScript |
+  | [Matching Game](https://github.com/MarinaFroes/FEND-project2-Matching-Game)   | Udacity Front-End Nanodegree Second Project| HTML + CSS + JavaScript |
+  | [Arcade Game Clone](https://github.com/MarinaFroes/FEND-project3-Arcade-Game-Clone) | Udacity Front-End Nanodegree Third Project| HTML + CSS + JavaScript |
+  | [Feed Reader Testing](https://github.com/MarinaFroes/FEND-project4-Feed-Reader-Testing) | Udacity Front-End Nanodegree Fourth Project| HTML + CSS + JavaScript + Jasmine |
+  | [Restaurant Review App](https://github.com/MarinaFroes/FEND-project5-Restaurant-Review-App) | Udacity Front-End Nanodegree Fifth Project| HTML + CSS + JavaScript + ServiceWorker |
+  | [Harry Potter Quiz](https://github.com/MarinaFroes/Harry-Potter-Quiz) | Quiz to test your knowledge about Harry Potter | HTML + CSS + JavaScript |
 
 </details>
 
