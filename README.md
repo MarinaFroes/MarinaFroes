@@ -8,15 +8,15 @@
 ## 👋 Hello there, I am Marina
 
 ### About me
-  * 👩‍💻 Self-taught Frontend Developer
-  * 🇧🇷 Brazilian
-  * 🇩🇪 Living in Berlin
-  * 🏠 Architecture background
-  * 📝 I like lists
+  * 👩‍💻 - Self-taught Frontend Developer
+  * 🇧🇷 - Brazilian
+  * 🇩🇪 - Living in Berlin
+  * 🏠 - Architecture background
+  * 📝 - I like lists
 
 ### Skills
 
-<p align="center"><img src="./skills.png" alt="logo" title="logo" width="80%"></p>
+<p align="center"><img src="./skills.png" alt="logo" title="logo" width="70%"></p>
 
 ### What I'm currently doing 
 
