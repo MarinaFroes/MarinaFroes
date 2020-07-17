@@ -7,24 +7,24 @@
 
 ## 👋 Hello there, I am Marina
 
-## About me
+### About me
   * 👩‍💻 Self-taught Frontend Developer
   * 🇧🇷 Brazilian
   * 🇩🇪 Living in Berlin
   * 🏠 Architecture background
   * 📝 I like lists
 
-## Skills
+### Skills
 
 <p align="center"><img src="./skills.png" alt="logo" title="logo" width="80%"></p>
 
-## What I'm currently doing 
+### What I'm currently doing 
 
   * Learning Data Structures and Algorithms mainly with the resources bellow:
     * [CS50 Harvard Course](https://cs50.harvard.edu/x/2020/)
     * [Interview Cake Full Course](https://www.interviewcake.com/)
 
-## My Repositories by category
+### My Repositories by category
 
 <details>
   <summary><strong>React</strong></summary>
