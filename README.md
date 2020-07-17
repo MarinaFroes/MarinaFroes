@@ -15,8 +15,12 @@
   * 📝 - I like lists
 
 ### Skills
-
-<p align="center"><img src="./skills.png" alt="logo" title="logo" width="70%"></p>
+  * HTML5
+  * CSS3
+  * JavaScript
+  * Typescript
+  * React
+  * Redux
 
 ### What I'm currently doing 
 
