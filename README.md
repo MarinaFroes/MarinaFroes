@@ -21,6 +21,7 @@
   * Typescript
   * React
   * Redux
+  * Making lists
 
 ### What I'm currently doing 
 
