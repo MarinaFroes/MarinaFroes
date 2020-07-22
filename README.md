@@ -58,6 +58,7 @@
 
   | Title | Reference |
   |-------|-----------|
+  | [TDD in React with Jest + Enzyme ](https://github.com/MarinaFroes/tdd-tutorial) | By [Steve Bishop](https://www.youtube.com/watch?v=tX-gu6FWcsE) |
   | [React TDD Tutorial](https://github.com/MarinaFroes/react-tdd-tutorial) - IN PROGRESS | By [CodingItWrong](https://www.youtube.com/watch?v=0aAdglT39go&list=PLXXnezSEtvNMlfJFd1Z2wilxymcOaVl9Q&index=2&t=0s) |
   | [Tailwind CSS Crash Course](https://github.com/MarinaFroes/tailwind-basic-tutorial)| By [Traversy Media](https://www.youtube.com/watch?v=UBOj6rqRUME)|
   |[MERN Exercise Tracker](https://github.com/MarinaFroes/MERN-exercise-tracker-tutorial)| By [Freecodecamp](https://www.youtube.com/watch?v=7CqJlxBYj-M&t=2416s)|
@@ -69,7 +70,7 @@
   | [Todo App with Vanilla JS](https://github.com/MarinaFroes/Todo-App) | By [Burak Tilek](https://www.youtube.com/watch?v=bFbXyPlXmhM) |
   | [Tic Tac Tow with React](https://github.com/MarinaFroes/Tic-Tac-Toe) | By [ReactJs](https://reactjs.org/tutorial/tutorial.html) |
   | [Simple React Calculator App](https://github.com/MarinaFroes/React-Calculator) | By [ Krissanawat Kaewsanmuang](https://medium.com/@kris101/create-a-simple-calculator-app-in-react-9fd645bb21ac) |
-
+  
 </details>
 
 <details>
