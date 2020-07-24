@@ -1,4 +1,4 @@
-<p align="center"><a href="https://marinafroes.github.io/Portfolio/" target="_blank"><img src="./mylogo.svg" alt="logo" title="logo" width="50"></a></p>
+<p align="center">🔹🔹🔹🔷🔵🔷🔹🔹🔹</p>
 <p align="center">
   <a href="mailto:facosta.marina@gmail.com">E-mail</a> •
   <a href="https://marinafroes.github.io/Portfolio/" target="_blank">Portfolio</a> •
