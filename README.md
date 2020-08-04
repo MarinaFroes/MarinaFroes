@@ -1,4 +1,4 @@
-<p align="center">🔹🔹🔹🔷🔵🔷🔹🔹🔹</p>
+
 <p align="center">
   <a href="mailto:facosta.marina@gmail.com">E-mail</a> •
   <a href="https://marinafroes.github.io/Portfolio/" target="_blank">Portfolio</a> •
@@ -28,6 +28,10 @@
   * Learning Data Structures and Algorithms mainly with the resources bellow:
     * [CS50 Harvard Course](https://cs50.harvard.edu/x/2020/)
     * [Interview Cake Full Course](https://www.interviewcake.com/)
+
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### My Repositories by category
 
