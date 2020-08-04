@@ -29,9 +29,17 @@
     * [CS50 Harvard Course](https://cs50.harvard.edu/x/2020/)
     * [Interview Cake Full Course](https://www.interviewcake.com/)
 
+--- 
+
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarinaFroes&show_icons=true&hide_border=true" />
+
+---
 
 ### My Repositories by category
 
