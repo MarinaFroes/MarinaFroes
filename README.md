@@ -40,4 +40,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaFroes&layout=compact)](https://github.com/MarinaFroes/github-readme-stats)
+
+---
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarinaFroes&show_icons=true&hide_border=true" />
