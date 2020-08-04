@@ -33,6 +33,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get started with testing in React?](https://dev.to/marinafroes/how-to-get-started-with-testing-in-react-11mg)
 <!-- BLOG-POST-LIST:END -->
 
 ---
