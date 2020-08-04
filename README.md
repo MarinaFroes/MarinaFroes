@@ -1,4 +1,4 @@
-<p align="center">🔹🔹🔹🔷🔵🔷🔹🔹🔹</p>
+
 <p align="center">
   <a href="mailto:facosta.marina@gmail.com">E-mail</a> •
   <a href="https://marinafroes.github.io/Portfolio/" target="_blank">Portfolio</a> •
