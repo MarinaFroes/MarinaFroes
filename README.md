@@ -14,14 +14,17 @@
   * 🏠 - Architecture background
   * 📝 - I like lists
 
+---
+
 ### Skills
-  * HTML5
-  * CSS3
-  * JavaScript
-  * Typescript
-  * React
-  * Redux
-  * Making lists
+
+![](https://img.shields.io/badge/markup-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/library-React-informational?style=flat-square&logo=React&logoColor=white&color=blue)
+![](https://img.shields.io/badge/state_management-Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=blue)
+![](https://img.shields.io/badge/styles-CSS3-informational?style=flat-square&logo=CSS3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/styles-Styled_Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=blue)
+![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typeScript&logoColor=white&color=blue)
 
 --- 
 
@@ -31,5 +34,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<br />
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarinaFroes&show_icons=true&hide_border=true" />
