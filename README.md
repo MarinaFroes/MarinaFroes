@@ -30,6 +30,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Illustrated JS: Promises](https://dev.to/marinafroes/illustrated-js-promises-5ed7)
 - [Illustrated JS: JavaScript asynchronous behaviour](https://dev.to/marinafroes/illustrated-js-javascript-asynchronous-behaviour-1akc)
 - [How to get started with testing in React?](https://dev.to/marinafroes/how-to-get-started-with-testing-in-react-11mg)
 <!-- BLOG-POST-LIST:END -->
