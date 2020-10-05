@@ -28,7 +28,6 @@ Do you want to work with me? Integrify provides consulting and recruitment servi
 
 <br>
 
-![](https://img.shields.io/badge/styles-Styled_Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=blue)
