@@ -24,7 +24,6 @@ I am a **Fullstack Developer** with a focus on **Frontend** currently living in 
 
 <br>
 
-![](https://img.shields.io/badge/styles-Styled_Components-informational?style=flat-square&logo=styled-components&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-TypeScript-informational?style=flat-square&logo=typeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-Node.js-informational?style=flat-square&logo=Node.js&logoColor=white&color=blue)
@@ -35,7 +34,6 @@ I am a **Fullstack Developer** with a focus on **Frontend** currently living in 
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Illustrated JS: Promises](https://dev.to/marinafroes/illustrated-js-promises-5ed7)
 - [Illustrated JS: JavaScript asynchronous behaviour](https://dev.to/marinafroes/illustrated-js-javascript-asynchronous-behaviour-1akc)
 - [How to get started with testing in React?](https://dev.to/marinafroes/how-to-get-started-with-testing-in-react-11mg)
