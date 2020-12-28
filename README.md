@@ -10,11 +10,7 @@
 
 ### About me
 
-I am a **Fullstack Developer @ Integrify** with a focus on Frontend currently living in Berlin, Germany.
-
-I aspire to work in a great company where I can leverage my knowledge of Web Development Technologies and contribute to its operations. Therefore, I welcome new opportunities for Frontend or Fullstack roles.
-
-Do you want to work with me? Integrify provides consulting and recruitment services for companies. Let’s talk more via Joona Ohra-aho: joona@integrify.io / +358 400 579 588.
+I am a **Fullstack Developer** with a focus on **Frontend** currently living in Berlin, Germany.
 
 ---
 
