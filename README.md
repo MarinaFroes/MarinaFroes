@@ -10,13 +10,17 @@
 
 ### About me
 
-I am a **Fullstack Developer** with a focus on **Frontend** currently living in Berlin, Germany.
+I am a detail-oriented **Software Engineer** with a focus on **Frontend** working for [SoundCloud](https://soundcloud.com/discover) in Berlin, Germany.
+<br>
+Highly organised, self-motivated, and independent learner. Bachelor’s degree in Architecture. 
+
 
 ---
 
 ### Skills
 
 ![](https://img.shields.io/badge/markup-HTML5-informational?style=flat-square&logo=HTML5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/framework-Next-informational?style=flat-square&logo=next.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/library-React-informational?style=flat-square&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/states-Redux-informational?style=flat-square&logo=Redux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/styles-CSS3-informational?style=flat-square&logo=CSS3&logoColor=white&color=blue)
