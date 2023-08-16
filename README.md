@@ -46,4 +46,4 @@ Highly organised, self-motivated, and independent learner. Bachelor’s degree i
 ---
 
 <br />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarinaFroes&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarinaFroes&show_icons=true&hide_border=true" /> -->
